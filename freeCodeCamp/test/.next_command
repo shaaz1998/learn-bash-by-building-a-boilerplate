@@ -62,3 +62,5 @@ ls --color=auto
 touch style.css
 ls --color=auto
 touch index.js
+ls --color=auto
+touch .gitgnore
