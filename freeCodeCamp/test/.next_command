@@ -338,3 +338,4 @@ echo for the freeCodeCamp bash lessons README.md
 more README.md
 cd project
 ls --color=auto
+cd .project
