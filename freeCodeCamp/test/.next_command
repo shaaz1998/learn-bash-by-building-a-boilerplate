@@ -35,3 +35,4 @@ clear
 test
 list
 ls --color=auto
+has
