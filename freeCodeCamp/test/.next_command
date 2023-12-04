@@ -303,3 +303,22 @@ touch client/assets/fonts/lato-bold.ttf
 touch client/assets/fonts/lato-light.ttf
 find
 rm fonts
+rmdir fonts
+find
+rmdir /fonts
+rm /fonts
+find
+rm /fonts
+rmdir /fonts
+find
+rm -help
+rm =-help
+rm --help
+rm -d -fonts
+rm --d -fonts
+rm -d --help
+rm -d/fonts
+rm -d
+rm fonts -d
+rm fonts -r
+find
