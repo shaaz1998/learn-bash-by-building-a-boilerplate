@@ -341,3 +341,4 @@ ls --color=auto
 cd .project
 cd .rest_files
 echo goodbye terminal
+exit
