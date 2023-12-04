@@ -234,3 +234,14 @@ dir project
 dir assets
 dir client
 cd website
+cd client
+cd src
+cd client
+find
+find -name client
+ls --color=auto
+cd website
+cd /
+ls --color=auto
+cd /home/codeally/project/freeCodeCamp/reset_files/website
+ls --color=auto
