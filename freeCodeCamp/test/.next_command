@@ -135,3 +135,8 @@ find -name src
 find website
 find -name website
 mkdir assets client
+ls --color=auto
+mkdir assets webiste/client
+mkdir assets website/client
+mkdir client/assets
+dir assets
