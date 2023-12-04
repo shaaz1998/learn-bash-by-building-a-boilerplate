@@ -342,3 +342,11 @@ cd .project
 cd .rest_files
 echo goodbye terminal
 exit
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n c4afa222-482b-41e4-85f6-9ac2bbf96a86
+cat /proc/self/environ
+echo -n c4afa222-482b-41e4-85f6-9ac2bbf96a86
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/vscode-server/bin/linux-x64/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/node' -p '"134548308fa1" + JSON.stringify(process.env) + "134548308fa1"'
