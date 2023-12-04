@@ -103,3 +103,5 @@ cp footer.jpeg images
 dir images
 ls --color=auto
 rm footer.jpeg
+rm header.png
+ls --color=auto
