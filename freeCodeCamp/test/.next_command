@@ -156,3 +156,58 @@ clear
 find
 clear
 cd assets
+ls --color=auto
+cd bin
+ls --color=auto
+cd /
+ls --color=auto
+cd vscode
+ls --color=auto
+cd vscode-server
+ls --color=auto
+cd bin
+ls --color=auto
+cd ///
+ls --color=auto
+cd worspaces
+cd workspaces
+ls --color=auto
+cd rdb-alpha
+ls --color=auto
+cd Dockerfile
+find
+dir projects
+dir project
+cd /
+ls --color=auto
+cd workspaces
+find
+clear
+ls --color=auto
+cd ///
+cd /
+ls --color=auto
+cd dev
+ls --color=auto
+cd /
+cd tmp
+ls --color=auto
+find
+cd //
+ls --color=auto
+cd root
+cd usr
+ls --color=auto
+find
+cd//
+cd //
+find -name index.html
+clear
+ls --color=auto
+cd home
+ls --color=auto
+cd codeally/project
+ls --color=auto
+cd website
+ls --color=auto
+cd images
