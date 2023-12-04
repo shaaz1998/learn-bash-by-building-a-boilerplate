@@ -289,3 +289,6 @@ rm images
 rm website/images
 ls --color=auto
 ls --color=auto
+find
+touch client/asseticons
+find
