@@ -47,3 +47,4 @@ mkdir website
 ls --color=auto
 cd website
 echo hello website
+create index.html in the website
