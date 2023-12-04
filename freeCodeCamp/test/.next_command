@@ -149,3 +149,10 @@ ls --color=auto
 cd images
 touch background.jpg
 cd //
+ls --color=auto
+cd project
+find -name project
+clear
+find
+clear
+cd assets
