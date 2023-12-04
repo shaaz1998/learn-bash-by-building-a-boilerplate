@@ -70,3 +70,5 @@ ls --color=auto --help
 clear
 ls --color=auto --help
 ls --color=auto --all
+cd ..
+ls --color=auto
