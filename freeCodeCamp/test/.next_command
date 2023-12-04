@@ -292,3 +292,4 @@ ls --color=auto
 find
 touch client/asseticons
 find
+mv CoeRoad.svgg client/assets/icons
