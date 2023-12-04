@@ -48,3 +48,15 @@ ls --color=auto
 cd website
 echo hello website
 create index.html in the website
+create index.html
+touch index.html
+ls --color=auto
+dir
+cd
+ls --color=auto
+cd website
+cd project
+ls --color=auto
+cd website
+ls --color=auto
+touch style.css
