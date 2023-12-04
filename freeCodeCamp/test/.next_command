@@ -288,3 +288,4 @@ find
 rm images
 rm website/images
 ls --color=auto
+ls --color=auto
