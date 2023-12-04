@@ -36,3 +36,4 @@ test
 list
 ls --color=auto
 has
+cd
