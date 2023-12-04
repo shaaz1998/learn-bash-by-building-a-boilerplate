@@ -41,3 +41,4 @@ __vsc_prompt_cmd_original
 /
 more
 ls --color=auto
+cd project
