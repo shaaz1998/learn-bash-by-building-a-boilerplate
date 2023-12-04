@@ -287,3 +287,4 @@ rmdir images
 find
 rm images
 rm website/images
+ls --color=auto
