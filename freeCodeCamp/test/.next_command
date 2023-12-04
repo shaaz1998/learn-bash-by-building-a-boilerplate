@@ -76,3 +76,5 @@ cd website
 touch background.jpg
 ls --color=auto
 touch header.png
+ls --color=auto
+touch footer.jpeg
