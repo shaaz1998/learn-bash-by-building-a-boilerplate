@@ -101,3 +101,4 @@ ls --color=auto
 cp header.png images
 cp footer.jpeg images
 dir images
+ls --color=auto
