@@ -143,3 +143,4 @@ dir assets
 ls --color=auto
 mkdir assets/images
 dir assets/images
+ls --color=auto
