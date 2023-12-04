@@ -65,3 +65,4 @@ touch index.js
 ls --color=auto
 touch .gitgnore
 ls --color=auto
+--help
