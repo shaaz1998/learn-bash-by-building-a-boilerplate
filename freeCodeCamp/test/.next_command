@@ -250,3 +250,30 @@ mv client/assets/images header.png
 find -name header.png
 find -name footer.jpeg
 mv footer.jpeg client/assets/images
+ls --color=auto
+cd images
+ls --color=auto
+mv footer.jpeg client/assets/images
+cd /website
+find
+cd ./
+ls --color=auto
+cd .
+cd .website
+cd website
+/
+dir website
+dir /website
+dir .website
+cd website
+cd images
+ls --color=auto
+find -name website
+__vsc_prompt_cmd_original
+cd ./
+ls --color=auto
+dir website
+__vsc_prompt_cmd_original
+cd website
+cd \website
+ls --color=auto
