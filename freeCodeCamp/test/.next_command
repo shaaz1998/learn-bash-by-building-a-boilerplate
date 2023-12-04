@@ -246,3 +246,4 @@ ls --color=auto
 cd /home/codeally/project/freeCodeCamp/reset_files/website
 ls --color=auto
 find
+mv client/assets/images header.png
