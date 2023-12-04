@@ -294,3 +294,4 @@ touch client/asseticons
 find
 mv CoeRoad.svgg client/assets/icons
 mv freeCodeCamp client/assets/icons
+mkdir client/assets/fonts
