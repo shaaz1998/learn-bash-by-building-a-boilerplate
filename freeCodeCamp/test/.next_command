@@ -278,3 +278,12 @@ cd website
 cd \website
 ls --color=auto
 cd //
+cd /home/codeally/project/freeCodeCamp/reset_files/website
+ls --color=auto
+find
+rmdir website/images
+ls --color=auto
+rmdir images
+find
+rm images
+rm website/images
