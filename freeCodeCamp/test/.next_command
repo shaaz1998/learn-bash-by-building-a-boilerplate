@@ -60,3 +60,4 @@ ls --color=auto
 cd website
 ls --color=auto
 touch style.css
+ls --color=auto
