@@ -140,3 +140,4 @@ mkdir assets webiste/client
 mkdir assets website/client
 mkdir client/assets
 dir assets
+ls --color=auto
