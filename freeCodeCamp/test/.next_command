@@ -43,3 +43,4 @@ more
 ls --color=auto
 cd project
 ls --color=auto
+mkdir website
