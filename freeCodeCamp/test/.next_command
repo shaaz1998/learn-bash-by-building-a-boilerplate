@@ -106,3 +106,4 @@ rm footer.jpeg
 rm header.png
 ls --color=auto
 mv robot.font roboto.woff
+ls --color=auto
