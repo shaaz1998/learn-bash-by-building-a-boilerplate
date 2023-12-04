@@ -73,3 +73,6 @@ ls --color=auto --all
 cd ..
 ls --color=auto
 cd website
+touch background.jpg
+ls --color=auto
+touch header.png
