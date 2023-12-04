@@ -96,3 +96,4 @@ dir images
 ls --color=auto
 dir images
 ls --color=auto
+rm background.jpg
