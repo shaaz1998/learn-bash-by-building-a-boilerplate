@@ -66,3 +66,7 @@ ls --color=auto
 touch .gitgnore
 ls --color=auto
 --help
+ls --color=auto --help
+clear
+ls --color=auto --help
+ls --color=auto --all
