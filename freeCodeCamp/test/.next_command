@@ -37,3 +37,4 @@ list
 ls --color=auto
 has
 cd
+__vsc_prompt_cmd_original
